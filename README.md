@@ -1,26 +1,25 @@
-# 🧹 Customers Data Cleaning ✨
+<h1 align="center">🧼✨🐍 𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿𝘀 𝗗𝗮𝘁𝗮 𝗖𝗹𝗲𝗮𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 🧼✨🐍</h1>
 
-This repository contains a **data cleaning project** performed on a customers dataset using **Python**.  
-The goal is to prepare clean, consistent, and analysis-ready data by handling missing values, duplicates, and formatting issues.
+<p align="center">
+  <b>My first Python data cleaning project using 𝑷𝒂𝒏𝒅𝒂𝒔!</b>  
+  <br>
+  A practical project focusing on cleaning, preparing, and organizing customer data for analysis.
+</p>
 
 ---
 
-## 📁 Project Overview
+## 📊 Project Overview
 
 | Step | Task | Description |
 |------|------|--------------|
-| 1 | Data Inspection | Load and explore the dataset to identify issues. |
-| 2 | Missing Values | Handle null or incomplete records. |
-| 3 | Duplicates | Detect and remove duplicate rows. |
-| 4 | Data Formatting | Standardize columns, fix data types, and clean text fields. |
-| 5 | Export | Save the cleaned dataset for further analysis. |
+| 1 | Data Inspection | Loaded and explored the dataset to understand structure and issues. |
+| 2 | Handling Missing Values | Identified and treated missing data properly. |
+| 3 | Fixing Data Types | Converted incorrect data types to their proper formats. |
+| 4 | Removing Duplicates | Detected and removed duplicate records. |
+| 5 | Cleaning Categorical Columns | Removed extra spaces and standardized category names. |
+| 6 | Merging Columns | Combined related columns to simplify the dataset. |
 
-Each notebook/script includes the full cleaning process with explanations and visuals.
+Now the dataset is **clean, consistent, and ready for analysis!** 💪  
 
 ---
 
-## ⚙️ How to Use
-
-1. Clone this repository  
-   ```bash
-   git clone https://github.com/your-username/customers-data-cleaning.git
